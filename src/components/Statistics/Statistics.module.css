@@ -1,0 +1,7 @@
+.feedback {
+  margin: 0;
+}
+
+.feedback:not(:last-of-type) {
+  margin-bottom: 10px;
+}

@@ -1,0 +1,15 @@
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.feedbackBtn {
+  font-family: 'Roboto', sans-serif;
+  background-color: blueviolet;
+  color: azure;
+  width: 100px;
+  line-height: 18px;
+  border: 1px solid blueviolet;
+  border-radius: 10px;
+  outline: none;
+}
